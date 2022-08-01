@@ -20,6 +20,7 @@
 
     <center>
         <font size="+3" color="#0000ff">Página por Santiago Campuzano</font>
+        <font size="+2" color="#0000ff">Plataformas de programación empresarial</font>
     </center>
     <center>
         <font size="+2">Menú de navegación</font>
