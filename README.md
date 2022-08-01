@@ -29,7 +29,7 @@
         <font size="+2">Menú de navegación</font>
     </center>
     <br />
-    <A HREF="contacto.md"> Contacto </A>
+    <A HREF="contacto.html"> Contacto </A>
     <br />
     <A HREF="blog.html"> Blog </A>
     <br />
