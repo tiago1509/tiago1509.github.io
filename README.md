@@ -1,4 +1,3 @@
-<!doctype html>
 <html class="no-js" lang="">
 
 <head>
@@ -20,13 +19,17 @@
 
     <center>
         <font size="+3" color="#0000ff">Página por Santiago Campuzano</font>
+    </center>
+    <br />
+    <center>
         <font size="+2" color="#0000ff">Plataformas de programación empresarial</font>
     </center>
+    <br />
     <center>
         <font size="+2">Menú de navegación</font>
     </center>
     <br />
-    <A HREF="contacto.html"> Contacto </A>
+    <A HREF="contacto.md"> Contacto </A>
     <br />
     <A HREF="blog.html"> Blog </A>
     <br />
