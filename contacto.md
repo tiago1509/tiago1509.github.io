@@ -16,13 +16,13 @@
     <br />
 
     <center>
-        <font size="+3" color="#0000ff">Página por Santiago Campuzano</font>
+        <font size="+3" color="#0000ff">Pagina por Santiago Campuzano</font>
     </center>
     <center>
-        <font size="+2">Menú de navegación</font>
+        <font size="+2">Menu de navegacion</font>
     </center>
     <br />
-    <A HREF="README.md"> Página principal </A>
+    <A HREF="README.md"> Pagina principal </A>
     <br />
     <A HREF="blog.html"> Blog </A>
     <br />
